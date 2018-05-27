@@ -16,9 +16,9 @@ Official Development Project For Kylaris
  
  # Important Notes
  > This Repository Has No 'Official Guild' For Getting Support, But You Are Free To Open An Issue On The Issue Tab
- 
+ > This Is Also Built To Be Hosted On [Glitch](https://glitch.me), You Can Read York's Guide [Here](http://anidiots.guide/other-guides/hosting-on-glitch.com) On Setting Up
  # Contributors
-  - Kylaris - Worked All Night On This
+  - Kylaris - Worked All Night On 
   - Alphi - Reviewed And Revised My Shit Code :(
   
   
