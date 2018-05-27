@@ -1,7 +1,7 @@
 # Lil' Bit About This Repository In 3 Words
 
 ![Kylaris Certified](https://cdn.discordapp.com/attachments/437345960322924554/450212814733180940/output.png)
-![Windows Host Advice](https://cdn.discordapp.com/attachments/437345960322924554/450222512458956800/output.png)
+![Windows Host](https://cdn.discordapp.com/attachments/437345960322924554/450222512458956800/output.png)
 
 # Kylaris-Dev
 Official Development Project For Kylaris
