@@ -63,7 +63,7 @@ if (command === 'help') { // This Command Will Have To Be Manually Updated To Gi
 
  if (command === 'shrug') {
  message.delete();
-  message.channel.send('¯\_(ツ)_/¯')
+  message.channel.send('¯\_(ツ)_/¯') // Return's Lenny Shrug
   }
 
 });
