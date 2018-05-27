@@ -74,7 +74,10 @@ if (command === 'help') { // This Command Will Have To Be Manually Updated To Gi
  message.delete();
   message.channel.send('¯\_(ツ)_/¯') // Return's Lenny Shrug
   }
-
+if (command === 'mem-usage') {
+ message.delete()
+ console.log(`Current Memory Usage ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}`)
+ }
 });
 client.login(process.env.DISCORD); // Logs User In Using The Inputted Settings 
 
