@@ -1,0 +1,26 @@
+{
+  "name": "kylaris-dev",
+  "version": "1.6.3",
+  "description": "Official Project For Kylaris",
+  "main": "node index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": { "node": "8.4.0" },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kylaris-Dev/Kylaris-Dev.git"
+  },
+  "author": "Amanda",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kylaris-Dev/Kylaris-Dev/issues"
+  },
+  "homepage": "https://github.com/Kylaris-Dev/Kylaris-Dev",
+  "dependencies": {
+    "discord.js": "^11.2.1",
+    "enmap": "^0.3.2",
+    "express": "^4.15.5"
+  }
+}
