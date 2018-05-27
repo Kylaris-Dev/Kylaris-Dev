@@ -55,12 +55,16 @@ if (command === 'embed')
 if (command === 'help') { // This Command Will Have To Be Manually Updated To Give The Updated Command List
   message.delete();
  const embed = new Discord.RichEmbed()
- .addField('Kylaris-Dev Commands', 'Game - Sets Your Game Presence\n\nOnline - Sets Status Online\n\nIdle - Sets Status Idle\n\nDND - Sets Status DND\n\nOffline - Sets Status Offline\n\nEmbed - Embeds Your Text\n\nHelp - Sends Command List')
+ .addField('Kylaris-Dev Commands', 'Game - Sets Your Game Presence\n\nOnline - Sets Status Online\n\nIdle - Sets Status Idle\n\nDND - Sets Status DND\n\nOffline - Sets Status Offline\n\nEmbed - Embeds Your Text\n\nHelp - Sends Command List\n\nShrug - Send The Shrug')
  .setFooter('Made With 💓 By Kylaris')
  .setColor('RANDOM');
  message.channel.send({embed})
  }
 
+ if (command === 'shrug') {
+ message.delete();
+  message.channel.send('¯\_(ツ)_/¯')
+  }
 
 });
 client.login(process.env.DISCORD); // Logs User In Using The Inputted Settings 
