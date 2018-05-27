@@ -1,5 +1,5 @@
 # Badges
-> View Our Badges Below!
+
 [![Kylaris Certified](https://cdn.discordapp.com/attachments/437345960322924554/450212814733180940/output.png)
 
 # Kylaris-Dev
