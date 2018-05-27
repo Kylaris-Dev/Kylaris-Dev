@@ -9,6 +9,13 @@ console.log(`Logged In As ${client.user.tag}`);
 client.user.setStatus('idle'); // Will Set Status To Idle On Login/Boot
 });
 
+client.on('debug', channel => {
+ /* 
+ Gonna Get This Up & Running Soon™
+ */
+
+});
+
 let prefix = ['+']; // We Advice You NOT To Use This Self Bot In A Public Guild Or A Guild That Has Logs 
 
 client.on('message', async message => {
