@@ -9,7 +9,7 @@ Official Development Project For Kylaris
  > This Lil' Puppy Requires A Few Things To Get Up And Running
  - [Node - Install Here](https://nodejs.org)
  
- > [Git - Install Here](https://git-scm.com/downloads)
+ - [Git - Install Here](https://git-scm.com/downloads)
  
  # Major Notice
  > This Is A Self Bot, Use This At Your **Own** Risk As It Is Against Discord Terms Of Service As I Don't Use It In Any Way, But The Only Reason Why This Is Available Is Because Some People Take Chances And Are Rebels
