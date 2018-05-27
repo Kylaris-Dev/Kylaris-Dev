@@ -19,8 +19,8 @@
   },
   "homepage": "https://github.com/Kylaris-Dev/Kylaris-Dev",
   "dependencies": {
-    "discord.js": "^11.2.1",
-    "enmap": "^0.3.2",
-    "express": "^4.15.5"
+    "discord.js": "^11.3.2",
+    "enmap": "^2.5.2",
+    "express": "^4.16.3"
   }
 }
