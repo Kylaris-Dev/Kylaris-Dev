@@ -41,6 +41,13 @@ client.user.setStatus('invisible');
 return console.log('Status Updated To Offline');
 }
 
+if (command === 'embed') 
+ message.delete();
+ const embed = new Discord.RichEmbed()
+ .setDescription(args.join(" "))
+ message.channel.send({embed});
+}
+
 
 });
 client.login(process.env.DISCORD); // Logs User In Using The Inputted Settings 
