@@ -22,4 +22,5 @@ Official Development Project For Kylaris
   - Kylaris - Worked All Night On 
   - Alphi - Reviewed And Revised My Shit Code :(
   
-  
+ ## Helping 
+> Everyone Is Allowed To Contribute To This Repository If It's Necessary, Once Your Contribute Is Approved It'll Be Automatically Be Added To Index.JS
