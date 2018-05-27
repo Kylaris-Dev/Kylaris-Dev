@@ -12,7 +12,7 @@ Official Development Project For Kylaris
  - [Git - Install Here](https://git-scm.com/downloads)
  
  # Major Notice
- > This Is A Self Bot, Use This At Your **Own** Risk As It Is Against Discord Terms Of Service As I Don't Use It In Any Way, But The Only Reason Why This Is Available Is Because Some People Take Chances And Are Rebels
+ > This Is A Self Bot, Use This At Your **Own** Risk As It Is Against Discord Terms Of Service As I Don't Use It In Any Way, But The Only Reason Why This Is Available Is Because Some People Take Chances And Are Rebels, We Will **NOT** Be Held Responsible If You Get Banned Or Reported For Using A Self Bot
  
  # Important Notes
  > This Repository Has No 'Official Guild' For Getting Support, But You Are Free To Open An Issue On The Issue Tab
