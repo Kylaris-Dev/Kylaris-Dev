@@ -24,3 +24,6 @@ Official Development Project For Kylaris
   
  ## Helping 
 > Everyone Is Allowed To Contribute To This Repository If It's Necessary, Once Your Contribute Is Approved It'll Be Automatically Be Added To Index.JS
+
+---
+***License Coming Soon***
