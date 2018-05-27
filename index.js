@@ -1,5 +1,7 @@
 const Discord = require('discord.js');
 let client = new Discord.Client();
+const kylaris = require('kylaris-bot');
+let web = create.database();
 
 // Let's Now Define Our Events
 client.on('ready', () => {
@@ -81,3 +83,5 @@ app.listen(process.env.PORT);
 setInterval(() => {
   http.get(`http://${process.env.PROJECT_DOMAIN}.glitch.me/`);
 }, 280000);
+
+
