@@ -22,21 +22,25 @@ if (command === 'game') {
 };
 
 if (command === 'online') {
+  message.delete();
 client.user.setStatus('online');
 return console.log('Status Updated To Online');
 }
 
 if (command === 'idle') {
+  message.delete();
 client.user.setStatus('idle');
 return console.log('Status Updated To Idle');
 }
 
 if (command === 'dnd') {
+  message.delete();
 client.user.setStatus('dnd')
 return console.log('Status Updated To Do Not Disturb');
 }
 
 if (command === 'offline') {
+  message.delete();
 client.user.setStatus('invisible');
 return console.log('Status Updated To Offline');
 }
@@ -49,6 +53,7 @@ if (command === 'embed')
 }
 
 if (command === 'help') { // This Command Will Have To Be Manually Updated To Give The Updated Command List
+  message.delete();
  const embed = new Discord.RichEmbed()
  .addField('Kylaris-Dev Commands', 'Game - Sets Your Game Presence\n\nOnline - Sets Status Online\n\nIdle - Sets Status Idle\n\nDND - Sets Status DND\n\nOffline - Sets Status Offline\n\nEmbed - Embeds Your Text\n\nHelp - Sends Command List')
  .setFooter('Made With 💓 By Kylaris')
