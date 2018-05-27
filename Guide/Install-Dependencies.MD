@@ -1,3 +1,5 @@
+##### KylarisBot Updater
+
 Dependency | Command 
 ----- | -----
 Discord.JS | `NPM I Discord.JS`
