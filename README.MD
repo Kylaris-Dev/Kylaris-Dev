@@ -1,7 +1,4 @@
-## Badges
-> View Our Status Badges Below
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Kylaris-Dev/Kylaris-Dev.svg)](https://greenkeeper.io/)
 
 
 # Kylaris-Dev
